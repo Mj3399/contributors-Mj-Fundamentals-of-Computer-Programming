@@ -1,1 +1,0 @@
-Exercise one involves drawings/images and so doesnt render properly in github, run exercise 1 raw.rkt in racket like it instructs with iterated_images.rkt downloaded as well to run properly. Exercise 1.rkt is merely for viewing convenience. Exercise 1 images.txt is for viewing purposes as well but unselectable with mouse.
