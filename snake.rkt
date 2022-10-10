@@ -205,7 +205,7 @@
   (play-game initial-game advance-game add-food change-direction game-score game-over?))
 
 ;to start a game
-;(play game-start)
+(play game-start)
 
 ;to make sure all procedures are defined with no typos
 (check-expect (procedure? add-food) #true)
