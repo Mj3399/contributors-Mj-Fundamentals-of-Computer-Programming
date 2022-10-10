@@ -1,0 +1,1 @@
+Exercise 3 involves drawings/images and so doesnt render properly in github, run Exercise 3 raw.rkt in racket like it instructs with iterated_images.rkt downloaded as well to run properly. Exercise 3.rkt is merely for viewing convenience.
